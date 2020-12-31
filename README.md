@@ -1,5 +1,7 @@
 # Tic Tac Toe
 This is a simple C++ version of Tic Tac Toe
-At the moment there are two different modes.
-In the Multiplayermode are two players can make a move one after another.
-In the Singleplayermode the computer plays against you, it makes random moves
+
+## Two modes:
+Multiplayer: Two people make their move one after another
+<br>
+Singleplayer: The computer makes random moves and you play against it
