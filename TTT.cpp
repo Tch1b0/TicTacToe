@@ -15,7 +15,7 @@ void drawField(string field[3][3]){
 }
 
 string checkField(string field[3][3]){
-    int pos1 = 0;
+    int pos1 = 1;
     int pos2 = 0;
     string result = "0";
     bool freefields = false;
