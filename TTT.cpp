@@ -59,10 +59,7 @@ int main() {
     string player;
     string winner;
     string choice;
-    string* fieldpointer0 = field[0];
-    string* fieldpointer1 = field[1];
-    string* fieldpointer2 = field[2];
-
+    
     do{
         cout << "Do you want to play against" << endl << "another (p)layer or the (c)omputer?" << endl;
         cin >> choice;
